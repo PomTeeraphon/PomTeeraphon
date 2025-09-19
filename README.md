@@ -17,11 +17,18 @@
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-- 🎓 4th-year student, **B.Sc. in Information Technology** at Maejo University  
 - 🌱 Currently learning **Spring Boot Advanced & Cloud Technologies**  
 - 🛠 Daily driver stack: **Java · Spring Boot · MySQL**  
 - 🎯 2025 Goal: **Contribute to impactful backend projects**  
 - 📫 Reach me at: **teeraphon.pom@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🎓 Education
+**Bachelor of Science in Information Technology**, Maejo University  
+**GPA:** 3.62/4.00
 
 ---
 
@@ -64,7 +71,11 @@
 ---
 
 ## 🤝 Let’s Connect
-> **“Backend is invisible, but powerful.”**
+<div align="center">
+  We push logic where eyes don’t look, so that experiences can feel effortless where eyes never leave.
+</div>
+
+---
 
 <p align="center">
   <a href="mailto:teeraphon.pom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
