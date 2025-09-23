@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=230&section=header&text=Backend%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header image" />
 </p>
 
-<h1 align="center">Teeraphon Sukhuaypra</span> <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Teeraphon Sukhuaypra <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Backend Developer • Full-stack Explorer • Lifelong Learner</strong><br/>
@@ -58,28 +58,22 @@
 
 ---
 
-## 📈 GitHub Status & Activity  
-<div align="center">
-
-<!-- GitHub Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=teeraphonpom&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-
-<!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeraphonpom&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-
-<!-- Streaks -->
-<img height="170" src="https://streak-stats.demolab.com?user=teeraphonpom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<!-- Trophies -->
+## 🍓 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teeraphonpom&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1" alt="trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PomTeeraphon&show_icons=true&hide_border=true&bg_color=FFDEE9,FFB6C1,FFF0F5&title_color=FF69B4&text_color=8B0000&icon_color=FF1493" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomTeeraphon&layout=compact&hide_border=true&bg_color=FFDEE9,FFB6C1,FFF0F5&title_color=FF69B4&text_color=8B0000" alt="Top Languages" height="180"/>
 </p>
 
-<!-- Snake animation -->
+
+---
+
+## 🎂 Fun Corner
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdrZ2ZycDVzZXk3cGR2dzI1dTJnZzN2cXZ3aDY2YWRmb2N2Z3ZsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Pp9W9KMP5b2dJ3iNQk/giphy.gif" width="250" alt="cute cake"/>
+</p>
+
+<p align="center">
+  ✨ "Coding with a sprinkle of sweetness, like strawberries on cake!" ✨
 </p>
 
 
@@ -100,10 +94,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=teeraphonpom&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
