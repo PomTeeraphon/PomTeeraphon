@@ -52,7 +52,7 @@
 | **Project** | **Tech Stack** | **Highlights** | **Links** |
 |-------------|----------------|----------------|-----------|
 | **Travel Light** | Flutter · MySQL · Spring Boot (Web Service) | Full-stack clothing rental app. <br/>• Add clothes to cart <br/>• Book & rent <br/>• Track deliveries <br/>• Simulated credit card payments | [Repo](https://github.com/PomTeeraphon/Project_App_Travel_LIght) |
-| **Interactive Web Board** | JSP · MySQL · Spring MVC | Community discussion board. <br/>• User authentication <br/>• Post comments <br/>• Likes & favorites <br/>• Thread management | [Repo](⟪url⟫) |
+| **Interactive Web Board** | JSP · MySQL · Spring MVC | Community discussion board. <br/>• User authentication <br/>• Post comments <br/>• Likes & favorites <br/>• Thread management | [Repo](https://github.com/PomTeeraphon/ProjectWeb) |
 
 </div>
 
