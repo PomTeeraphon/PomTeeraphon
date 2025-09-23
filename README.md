@@ -61,9 +61,8 @@
 ## 🍓 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PomTeeraphon&show_icons=true&hide_border=true&bg_color=FFDEE9,FFB6C1,FFF0F5&title_color=FF69B4&text_color=8B0000&icon_color=FF1493" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomTeeraphon&layout=compact&hide_border=true&bg_color=FFDEE9,FFB6C1,FFF0F5&title_color=FF69B4&text_color=8B0000" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PomTeeraphon&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=FFDEE9,FFB6C1,FFF0F5&title_color=FF69B4&text_color=8B0000" alt="Top Languages" height="180"/>
 </p>
-
 
 ---
 
