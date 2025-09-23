@@ -58,15 +58,30 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Status & Activity  
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=teeraphonpom&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeraphonpom&layout=compact&hide_border=true&theme=tokyonight" />
+
+<!-- GitHub Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=teeraphonpom&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+
+<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeraphonpom&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+
+<!-- Streaks -->
+<img height="170" src="https://streak-stats.demolab.com?user=teeraphonpom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=teeraphonpom&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1" alt="trophies"/>
 </p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 
 ---
 
